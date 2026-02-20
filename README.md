@@ -14,8 +14,8 @@ I love building high-performance web apps with modern UI/UX.
 - **Tools:** Git, Figma, Node.js (Basic)
 
 ### Featured
-- 🌐 **[My Cyber-Portfolio](https://resume-pink-nine.vercel.app/)** — Next.js 15, Server Actions & Neon vibes.
-- ⚙️ **[Google SERP Parser](https://github.com/M1g3L14Ka/node-google-parser-ts)** — High-performance scraper on Node.js & RegExp.
+- **[My Cyber-Portfolio](https://resume-pink-nine.vercel.app/)** — Next.js 15, Server Actions & Neon vibes.
+- **[Google SERP Parser](https://github.com/M1g3L14Ka/node-google-parser-ts)** — High-performance scraper on Node.js & RegExp.
 
 ### Fun Facts
 - I prefer **Vercel** over configuring Nginx.
