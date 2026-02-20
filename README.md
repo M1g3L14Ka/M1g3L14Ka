@@ -3,7 +3,7 @@
 I'm **Michael**, a Frontend Developer based in Russia.
 I turn complex logic into pixel-perfect interfaces.
 
-🥇 **WorldSkills Champion** ("Professionals") in Mobile Game Development.
+**WorldSkills Champion** ("Professionals") in Mobile Game Development.
 I love building high-performance web apps with modern UI/UX.
 
 ---
@@ -22,7 +22,7 @@ I love building high-performance web apps with modern UI/UX.
 - I prefer **Vercel** over configuring Nginx.
 - Can parse Google search results using only **Regular Expressions**.
 - Currently building a Cyberpunk Library system.
-
+- Coffee person ☕
 ---
 
 [<img src="https://img.shields.io/badge/Telegram-Connect-blue?style=for-the-badge&logo=telegram">](https://t.me/M1g3L14Ka)
