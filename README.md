@@ -13,9 +13,10 @@ I love building high-performance web apps with modern UI/UX.
 - **Frontend:** React, Next.js 15 (App Router), Tailwind CSS, Framer Motion
 - **Tools:** Git, Figma, Node.js (Basic)
 
-### Featured
-- **[My Cyber-Portfolio](https://resume-pink-nine.vercel.app/)** — Next.js 15, Server Actions & Neon vibes.
-- **[Google SERP Parser](https://github.com/M1g3L14Ka/node-google-parser-ts)** — High-performance scraper on Node.js & RegExp.
+### Tools and Tech
+- React / Next.js, TypeScript, TailWind
+- Framer Motion for animations
+- Figma/Tilda, Node.js
 
 ### Fun Facts
 - I prefer **Vercel** over configuring Nginx.
