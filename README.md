@@ -35,6 +35,8 @@ Former **WorldSkills Champion** in Mobile Game Dev. Now, I channel that competit
 - Currently building a Library system.
 - Coffee person ☕
 
-## [My Portfolio Site](https://michael-resume.vercel.app/) 
----
-## [Contact Me via Telegram](https://t.me/M1g3L14Ka)
+<div align="center">
+
+### [Check out my Portfolio](https://resume-pink-nine.vercel.app/) • [Message me on Telegram](https://t.me/ТВОЙ_НИК)
+
+</div>
