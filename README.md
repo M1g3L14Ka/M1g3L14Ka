@@ -31,8 +31,6 @@ Former **WorldSkills Champion** in Mobile Game Dev. Now, I channel that competit
 
 ### 🤪 Fun Facts
 - I prefer **Vercel** over configuring Nginx (let's focus on code, not configs).
-- I write my own parsers using **RegEx** because libraries are for the weak (only in this project ^_____^).
-- Currently building a Library system.
 - Coffee person ☕
 
 <div align="center">
