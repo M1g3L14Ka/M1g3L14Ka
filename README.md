@@ -25,7 +25,7 @@ Former **WorldSkills Champion** in Mobile Game Dev. Now, I channel that competit
 | :--- | :--- | :--- | :--- |
 | **My own Resume** | My interactive portfolio with real-time email routing and heavy animations. | `Next.js` `Framer Motion` `Resend` | [Live Demo](https://michael-resume.vercel.app/) • [Code](https://github.com/M1g3l14Ka/pet-projects/tree/main/Next-projects/resume) |
 | **TableCRM Form (with AI function)** | Commercial test task: Product creation form with **Generative AI** for SEO fields. | `Next.js` `Gemini AI` `Server Actions` | [Live Demo](https://next-tablecrm.vercel.app/) • [Code](https://github.com/M1g3l14Ka/pet-projects/tree/main/Commercial-projects/table-crm) |
-| **Fitness Ads App** | Interactive pricing page with smart timers and dynamic state handling. | `Next.js` `TypeScript` `Tailwind` | [Live Demo](https://fitness-ads-app.vercel.app/) • [Code](https://github.com/M1g3l14Ka/pet-projects/tree/main/Next-projects/fitness-ads-app) |
+| **Fitness Ads App** | Interactive pricing page with smart timers and dynamic state handling. | `Next.js` `TypeScript` `Tailwind` | [Live Demo](https://fitness-ads-app.vercel.app/) • [Code](https://github.com/M1g3l14Ka/pet-projects/tree/main/Next-projects/fitness-ads) |
 
 ---
 
