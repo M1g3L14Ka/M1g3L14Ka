@@ -2,7 +2,7 @@
 
 I'm **Michael** a **Frontend Developer** focused on building high-performance web applications with a distinct visual style. I don't just write code; I craft interactive experiences.
 
-Complex logic should feel simple to the user. I combine the power of **Next.js 15 (App Router)** and **Server Actions** with the fluidity of **Framer Motion** to create interfaces that breathe.
+Complex logic should feel simple to the user. I combine the power of **Next.js (App Router)** and **Server Actions** with the fluidity of **Framer Motion** to create interfaces that breathe.
 
 If I have any idea..
 It definitely turns into a small but fun project =)
