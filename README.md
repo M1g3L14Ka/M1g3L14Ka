@@ -8,7 +8,7 @@ If I have any idea..
 It definitely turns into a small but fun project =)
 
 ## 🛠️ **What I work with:**
-- **Frameworks:** Next.js 15, React, TypeScript
+- **Frameworks:** Next.js, React, TypeScript
 - **Styling:** Tailwind CSS, shadcn/ui
 - **Motion:** Framer Motion (creating "wow" effects)
 - **AI Integration:** Gemini API & generative UI
