@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm **Michael** a **Frontend Developer** focused on building high-performance web applications with a distinct visual style. I don't just write code; I craft interactive experiences.
+I'm **Michael** a **Frontend/Fullstack Developer** focused on building high-performance web applications with a distinct visual style. I don't just write code; I craft interactive experiences.
 
 Complex logic should feel simple to the user. I combine the power of **Next.js (App Router)** and **Server Actions** with the fluidity of **Framer Motion** to create interfaces that breathe.
 
@@ -8,11 +8,12 @@ If I have any idea..
 It definitely turns into a small but fun project =)
 
 ## 🛠️ **What I work with:**
-- **Frameworks:** Next.js, React, TypeScript
-- **Styling:** Tailwind CSS, shadcn/ui
-- **Motion:** Framer Motion (creating "wow" effects)
-- **AI Integration:** Gemini API & generative UI
-- **Tools:** Figma (I understand design), Git, Vercel
+- **Core**: JavaScript (ES6+), TypeScript
+- **Frontend**: React 19, Next.js 16
+- **State & Data**: Zustand, React Hook Form, Zod
+- **Backend & DB**: Node.js, SQLite, Prisma ORM, NextAuth (или Clerk)
+- **Styling & UI**: Tailwind CSS v4, shadcn/ui, Framer Motion
+- **AI & Tools**: Gemini API, Generative UI, Figma, Git, Vercel
 
 ## **Background:**
 Former **WorldSkills Champion** in Mobile Game Dev. Now, I channel that competitive spirit into pixel-perfect web development.
