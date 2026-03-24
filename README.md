@@ -11,7 +11,7 @@ It definitely turns into a small but fun project =)
 - **Core**: JavaScript (ES6+), TypeScript
 - **Frontend**: React 19, Next.js 16
 - **State & Data**: Zustand, React Hook Form, Zod
-- **Backend & DB**: Node.js, SQLite, Prisma ORM, NextAuth (или Clerk)
+- **Backend & DB**: Node.js, SQLite, Prisma ORM, NextAuth
 - **Styling & UI**: Tailwind CSS v4, shadcn/ui, Framer Motion
 - **AI & Tools**: Gemini API, Generative UI, Figma, Git, Vercel
 
