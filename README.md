@@ -24,9 +24,8 @@ Former **WorldSkills Champion** in Mobile Game Dev. Now, I channel that competit
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **My own Resume** | My interactive portfolio with real-time email routing and heavy animations. | `Next.js` `Framer Motion` `Resend` | [Live Demo](https://michael-resume.vercel.app/) • [Code](https://github.com/M1g3l14Ka/pet-projects/tree/main/Next-projects/resume) |
-| **TableCRM Form (with AI function)** | Commercial test task: Product creation form with **Generative AI** for SEO fields. | `Next.js` `Gemini AI` `Server Actions` | [Live Demo](https://next-tablecrm.vercel.app/) • [Code](https://github.com/M1g3l14Ka/pet-projects/tree/main/Commercial-projects/table-crm) |
-| **Fitness Ads App** | Interactive pricing page with smart timers and dynamic state handling. | `Next.js` `TypeScript` `Tailwind` | [Live Demo](https://fitness-ads-app.vercel.app/) • [Code](https://github.com/M1g3l14Ka/pet-projects/tree/main/Next-projects/fitness-ads) |
+| **My own Resume** | My interactive portfolio with real-time email routing and heavy animations. | `Next.js` `Framer Motion` `Resend` | [Live Demo](https://michaelkasion.ru/) • [Code](https://github.com/M1g3l14Ka/web-resume) |
+| **Freelance CRM** | A modern financial management CRM I built for freelancers to track projects, income, subscriptions, and get AI-powered insights. | `Next.js` `Gemini AI` `Server Actions` | [Live Demo](https://crm.michaelkasion.ru/) • [Code]([https://crm.michaelkasion.ru/](https://github.com/M1g3l14Ka/freelance-crm)) |
 
 ---
 
@@ -36,6 +35,6 @@ Former **WorldSkills Champion** in Mobile Game Dev. Now, I channel that competit
 
 <div align="center">
 
-### [Check out my Portfolio](https://michael-resume.vercel.app/) • [Message me on Telegram](https://t.me/M1g3L14Ka)
+### [Check out my Portfolio](https://michaelkasion.ru/) • [Message me on Telegram](https://t.me/M1g3L14Ka)
 
 </div>
