@@ -25,7 +25,7 @@ Former **WorldSkills Champion** in Mobile Game Dev. Now, I channel that competit
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **My own Resume** | My interactive portfolio with real-time email routing and heavy animations. | `Next.js` `Framer Motion` `Resend` | [Live Demo](https://michaelkasion.ru/) • [Code](https://github.com/M1g3l14Ka/web-resume) |
-| **Freelance CRM** | A modern financial management CRM I built for freelancers to track projects, income, subscriptions, and get AI-powered insights. | `Next.js` `Gemini AI` `Server Actions` | [Live Demo](https://crm.michaelkasion.ru/) • [Code]([https://crm.michaelkasion.ru/](https://github.com/M1g3l14Ka/freelance-crm) |
+| **Freelance CRM** | A modern financial management CRM I built for freelancers to track projects, income, subscriptions, and get AI-powered insights. | `Next.js` `Gemini AI` `Server Actions` | [Live Demo](https://crm.michaelkasion.ru/) • [Code]([https://github.com/M1g3l14Ka/freelance-crm]) |
 
 ---
 
